@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Arial, sans-serif;
+}
+
+#app {
+  width: 600px;
+  margin: auto;
+  background: lightpink;
+  padding: 20px;
+  border-radius: 15px;
+}
